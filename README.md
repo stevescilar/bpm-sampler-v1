@@ -30,3 +30,7 @@ A Python script that analyzes audio files in a selected folder and sorts them in
 ## Disclaimer
 
 This script uses audio analysis to estimate BPM. Results may not be 100% accurate for all tracks.
+
+## Source Code
+
+The main script is available at [bpm_sampler.py](bpm_sampler.py).

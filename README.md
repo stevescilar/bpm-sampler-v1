@@ -2,6 +2,12 @@
 
 A Python script that analyzes audio files in a selected folder and sorts them into three categories based on their BPM (beats per minute): Slow (<90 BPM), Medium (90-120 BPM), and Fast (>120 BPM).
 
+## Screenshot
+
+![BPM Sampler Interface](BPMscreen.png)
+
+*Screenshot of the folder selection dialog and processing output.*
+
 ## Requirements
 
 - Python 3.x

@@ -52,3 +52,15 @@ This script uses audio analysis to estimate BPM. Results may not be 100% accurat
 ## Source Code
 
 The main script is available at [bpm_sampler.py](bpm_sampler.py).
+
+## Author
+
+Stephen Muambi
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Version
+
+v1.0.0
